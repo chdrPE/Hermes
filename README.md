@@ -1,3 +1,4 @@
-# Hermes
+# KDGO Website
 
-Website for KDGO to showcase projects, members and updates.
+Project placeholder
+

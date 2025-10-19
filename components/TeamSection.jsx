@@ -1,0 +1,2 @@
+// TeamSection component placeholder
+
