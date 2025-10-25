@@ -1,0 +1,29 @@
+{
+  "name": "hermes",
+  "version": "1.0.0",
+  "description": "**Pages:**   Each page in the `pages/` folder represents a route on the website (e.g., `index.jsx` → `/`, `projects.jsx` → `/projects`).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chdrPE/Hermes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/chdrPE/Hermes/issues"
+  },
+  "homepage": "https://github.com/chdrPE/Hermes#readme",
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}

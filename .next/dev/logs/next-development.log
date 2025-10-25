@@ -1,0 +1,10 @@
+[00:00:00.321] Server  LOG      ✓ Ready in 198ms
+[00:00:06.671] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[00:00:06.708] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[00:00:06.870] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/projects"
+[00:01:03.250] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[00:01:03.293] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[00:01:03.380] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/projects"
+[00:02:02.021] Server  LOG      ✓ Compiled in 27ms
+[00:02:04.224] Server  LOG      ✓ Compiled in 13ms
+[00:02:04.294] Browser LOG     Refreshing page data due to server-side change
