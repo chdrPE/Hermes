@@ -8,10 +8,10 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/node_modules_next_head_6b89d279.js",
       "static/chunks/node_modules_react-dom_4411d9bd._.js",
       "static/chunks/node_modules_f1be3ba2._.js",
-      "static/chunks/[root-of-the-server]__5ad61e1a._.js",
-      "static/chunks/components_Navbar_module_7d0fb3ca.css",
+      "static/chunks/[root-of-the-server]__7fd625be._.js",
+      "static/chunks/components_3cd7fa87._.css",
       "static/chunks/pages_index_2da965e7._.js",
-      "static/chunks/turbopack-pages_index_d90bd532._.js"
+      "static/chunks/turbopack-pages_index_05530569._.js"
     ],
     "/_app": [
       "static/chunks/node_modules_next_dist_compiled_c629999b._.js",

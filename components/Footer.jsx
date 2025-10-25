@@ -12,8 +12,6 @@ export default function Footer() {
               <li><a href="/projects" className={styles.footerLink}>Projects</a></li>
               <li><a href="/team" className={styles.footerLink}>Team</a></li>
               <li><a href="/updates" className={styles.footerLink}>Updates</a></li>
-              <li><a href="/resources" className={styles.footerLink}>Resources</a></li>
-              <li><a href="/events" className={styles.footerLink}>Events</a></li>
             </ul>
           </div>
 
@@ -57,13 +55,6 @@ export default function Footer() {
             <p className={styles.copyrightText}>
               © 2024 Student Project Hub. All rights reserved.
             </p>
-            <div className={styles.legalLinks}>
-              <a href="/privacy" className={styles.legalLink}>Privacy policy</a>
-              <span className={styles.separator}>•</span>
-              <a href="/terms" className={styles.legalLink}>Terms of service</a>
-              <span className={styles.separator}>•</span>
-              <a href="/cookies" className={styles.legalLink}>Cookie settings</a>
-            </div>
           </div>
 
           <div className={styles.socialMedia}>
