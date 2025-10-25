@@ -1,0 +1,255 @@
+/* Footer Component Styles */
+.footer {
+  background: #1a1a1a;
+  color: white;
+  border-top: 1px solid #333;
+  margin-top: auto;
+}
+
+.footerContent {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Top Section - Four Columns */
+.footerTop {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3rem;
+  padding: 3rem 0;
+  border-bottom: 1px solid #333;
+}
+
+.footerColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.columnHeading {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  color: white;
+}
+
+.linkList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.footerLink {
+  color: #ccc;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+  line-height: 1.4;
+}
+
+.footerLink:hover {
+  color: #00d4ff;
+}
+
+/* Subscribe Section */
+.subscribeText {
+  color: #ccc;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.legalText {
+  color: #999;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  margin-bottom: 1.5rem;
+}
+
+.subscribeForm {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.emailInput {
+  flex: 1;
+  min-width: 200px;
+  padding: 0.75rem 1rem;
+  border: 1px solid #444;
+  border-radius: 6px;
+  background: #2a2a2a;
+  color: white;
+  font-size: 0.9rem;
+  transition: border-color 0.2s ease;
+}
+
+.emailInput:focus {
+  outline: none;
+  border-color: #00d4ff;
+}
+
+.emailInput::placeholder {
+  color: #888;
+}
+
+.subscribeButton {
+  padding: 0.75rem 1.5rem;
+  background: linear-gradient(135deg, #00d4ff 0%, #00a8cc 100%);
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.subscribeButton:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 212, 255, 0.3);
+}
+
+/* Bottom Section - Copyright and Social Media */
+.footerBottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 0;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.copyrightSection {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.copyrightText {
+  color: #ccc;
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.legalLinks {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.legalLink {
+  color: #999;
+  text-decoration: none;
+  font-size: 0.8rem;
+  transition: color 0.2s ease;
+}
+
+.legalLink:hover {
+  color: #00d4ff;
+}
+
+.separator {
+  color: #666;
+  font-size: 0.8rem;
+}
+
+.socialMedia {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.socialLink {
+  color: #ccc;
+  transition: color 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #2a2a2a;
+  transition: all 0.2s ease;
+}
+
+.socialLink:hover {
+  color: #00d4ff;
+  background: #333;
+  transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .footerTop {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+  }
+  
+  .footerBottom {
+    flex-direction: column;
+    text-align: center;
+    gap: 1.5rem;
+  }
+  
+  .socialMedia {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .footerContent {
+    padding: 0 1rem;
+  }
+  
+  .footerTop {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    padding: 2rem 0;
+  }
+  
+  .subscribeForm {
+    flex-direction: column;
+  }
+  
+  .emailInput {
+    min-width: 100%;
+  }
+  
+  .footerBottom {
+    padding: 1rem 0;
+  }
+  
+  .legalLinks {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .footerTop {
+    padding: 1.5rem 0;
+  }
+  
+  .columnHeading {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .footerLink {
+    font-size: 0.9rem;
+  }
+  
+  .socialMedia {
+    gap: 0.75rem;
+  }
+  
+  .socialLink {
+    width: 36px;
+    height: 36px;
+  }
+}
