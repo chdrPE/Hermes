@@ -19,7 +19,7 @@ export default function TeamPage() {
                         solutions through collaborative projects</p> 
                 </header>
 
-                //Css for modifying and improving the appereance
+                {/*Css for modifying and improving the appereance*/}
 
                 <section>
                     <p>Innovators</p>
@@ -28,25 +28,25 @@ export default function TeamPage() {
                             digital experiences</p>
                 </section>
 
-                //Component for image + name + role + ...
+                {/*Component for image + name + role + ...*/}
 
                 <section>
                     <h2>Team Voices</h2>
                     <p>Insights from our passionate student innovators</p>
                 </section>
 
-                // Component for comments (User + name + stars + ...)
+                {/* Component for comments (User + name + stars + ...*/}
 
                 <section>
-                    <h6>Connect</h6> // h6 so it's easy to modify using css
-                    <h3>Contact us</h3> // same as before (different from other h2)
+                    <h6>Connect</h6> {/*h6 so it's easy to modify using css*/}
+                    <h3>Contact us</h3> {/*same as before (different from other h2)*/}
                     <h6>Interested in collaboration or have questions about our student
                         -driven digital projects</h6>
                 </section>
 
-                // Component for email, phone, office
+                {/* Component for email, phone, office*/}
 
-                // Image 
+                {/* Image */}
 
 
             </main>
