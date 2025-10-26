@@ -1,108 +1,132 @@
-[00:00:00.321] Server  LOG      ✓ Ready in 198ms
-[00:00:06.671] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
-[00:00:06.708] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
-[00:00:06.870] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/projects"
-[00:01:03.250] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
-[00:01:03.293] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
-[00:01:03.380] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/projects"
-[00:02:02.021] Server  LOG      ✓ Compiled in 27ms
-[00:02:04.224] Server  LOG      ✓ Compiled in 13ms
-[00:02:04.294] Browser LOG     Refreshing page data due to server-side change
-[00:29:35.537] Server  LOG      ✓ Compiled in 104ms
-[00:29:44.504] Server  LOG      ✓ Compiled in 8ms
-[00:30:17.491] Browser LOG     Refreshing page data due to server-side change
-[00:30:17.491] Browser LOG     Refreshing page data due to server-side change
-[00:32:42.933] Server  LOG      ✓ Compiled in 36ms
-[00:33:40.435] Server  LOG      ✓ Compiled in 24ms
-[00:34:29.705] Server  LOG      ✓ Compiled in 27ms
-[00:51:36.702] Server  LOG      ✓ Compiled in 39ms
-[00:51:39.104] Server  LOG      ✓ Compiled in 4ms
-[00:52:31.121] Browser LOG     Refreshing page data due to server-side change
-[00:52:31.121] Browser LOG     Refreshing page data due to server-side change
-[01:21:24.006] Server  LOG      ✓ Compiled in 145ms
-[01:21:28.411] Server  LOG      ✓ Compiled in 15ms
-[01:25:11.643] Server  LOG      ✓ Compiled in 88ms
-[01:25:19.146] Server  LOG      ✓ Compiled in 6ms
-[01:35:32.653] Server  LOG      ✓ Compiled in 49ms
-[01:35:35.674] Server  LOG      ✓ Compiled in 8ms
-[01:35:36.536] Browser ERROR   %o
+[00:00:03.093] Server  LOG      ✓ Ready in 2.9s
+[00:00:23.964] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[00:00:24.008] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[00:00:24.204] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/projects"
+[00:00:28.041] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/team"
+[00:00:28.070] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/team"
+[00:00:28.150] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/team"
+[02:12:36.303] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/team"
+[02:12:36.383] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/team"
+[02:12:36.663] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/team"
+[02:12:37.137] Browser LOG     TSS: Received response from checkDomainAndRun: {"isAllowListed":false,"isProtectionEnabled":true,"isScamsProtectionEnabled":true}
+[02:12:37.137] Browser DEBUG   injection-tss TSS: hosted page injected
+[02:12:37.137] Browser DEBUG   injection-tss MBTSS: Nonce:  nonce
+[02:12:40.952] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[02:12:41.027] Server  LOG      ✓ Compiled in 141ms
+[02:23:23.755] Server  LOG      ✓ Compiled in 135ms
+[02:23:23.860] Browser LOG     Refreshing page data due to server-side change
+[02:23:23.860] Browser DEBUG   TSS: Counted history being replaced
+[02:23:23.860] Browser DEBUG   TSS: Caught history
+[02:23:23.860] Browser DEBUG   TSS: Checking if repeated 500 times for interval 1000 against data:  {}
+[02:26:11.060] Server  LOG      ✓ Compiled in 89ms
+[02:26:11.133] Browser ERROR   In HTML, %s cannot be a child of <%s>.%s
+This will cause a hydration error.%s <head> div  
+[02:26:25.059] Server  LOG      ✓ Compiled in 7ms
+[02:26:37.889] Server  LOG      ✓ Compiled in 66ms
+[02:26:37.967] Browser LOG     Refreshing page data due to server-side change
+[02:26:37.967] Browser DEBUG   TSS: Counted history being replaced
+[02:26:37.967] Browser DEBUG   TSS: Caught history
+[02:26:37.967] Browser DEBUG   TSS: Checking if repeated 500 times for interval 1000 against data:  {}
+[02:27:11.900] Server  LOG      ✓ Compiled in 50ms
+[02:27:11.981] Browser ERROR   %o
 
 %s
 
 %s
- {} The above error occurred in the <HeroSection> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
-[01:36:54.571] Server  LOG      ✓ Compiled in 37ms
-[01:36:57.030] Server  LOG      ✓ Compiled in 4ms
-[01:37:01.081] Server  LOG      ✓ Compiled in 12ms
-[01:37:06.497] Server  LOG      ✓ Compiled in 8ms
-[01:37:08.523] Server  LOG      ✓ Compiled in 3ms
-[01:37:26.684] Server  LOG      ✓ Compiled in 48ms
-[01:37:29.052] Server  LOG      ✓ Compiled in 86ms
-[01:39:47.013] Server  LOG      ✓ Compiled in 14ms
-[01:41:19.809] Server  LOG      ✓ Compiled in 17ms
-[01:41:22.444] Server  LOG      ✓ Compiled in 3ms
-[01:41:24.745] Server  LOG      ✓ Compiled in 5ms
-[01:41:27.320] Server  LOG      ✓ Compiled in 3ms
-[01:41:42.014] Server  LOG      ✓ Compiled in 45ms
-[01:41:42.275] Browser ERROR   ./components/GeometricWaves.jsx:77:6
-Parsing ecmascript source code failed
-  75 |       }
-  76 |     };
-> 77 |   }, []);
-     |      ^^
-  78 |
-  79 |   return (
-  80 |     <div className={styles.wavesContainer}>
-
-'const' declarations must be initialized
-
-Import traces:
-  Browser:
-    ./components/GeometricWaves.jsx
-    ./components/HeroSection.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/GeometricWaves.jsx
-    ./components/HeroSection.jsx
-    ./pages/index.jsx
-[01:41:42.275] Browser ERROR   ./components/GeometricWaves.jsx:77:8
-Parsing ecmascript source code failed
-  75 |       }
-  76 |     };
-> 77 |   }, []);
-     |        ^
-  78 |
-  79 |   return (
-  80 |     <div className={styles.wavesContainer}>
-
-Expected a semicolon
-
-Import traces:
-  Browser:
-    ./components/GeometricWaves.jsx
-    ./components/HeroSection.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/GeometricWaves.jsx
-    ./components/HeroSection.jsx
-    ./pages/index.jsx
-[01:42:07.196] Server  LOG      ✓ Compiled in 60ms
-[01:42:25.556] Server  LOG      ✓ Compiled in 32ms
-[01:42:25.689] Browser ERROR   %o
+ {} The above error occurred in the <Teams> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[02:36:35.043] Server  LOG      ✓ Compiled in 102ms
+[02:36:35.547] Browser ERROR   %o
 
 %s
 
 %s
- {} The above error occurred in the <HeroSection> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
-[01:42:27.438] Server  LOG      ✓ Compiled in 7ms
-[01:42:29.989] Server  LOG      ✓ Compiled in 3ms
-[01:42:32.171] Server  LOG      ✓ Compiled in 5ms
-[01:42:34.541] Server  LOG      ✓ Compiled in 4ms
-[01:42:37.360] Server  LOG      ✓ Compiled in 3ms
-[01:42:42.374] Server  LOG      ✓ Compiled in 5ms
-[01:42:44.383] Server  LOG      ✓ Compiled in 17ms
-[01:43:38.157] Server  LOG      ✓ Compiled in 23ms
-[01:43:40.371] Server  LOG      ✓ Compiled in 3ms
-[01:44:31.651] Server  LOG      ✓ Compiled in 46ms
+ {} The above error occurred in the <Teams> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[02:37:15.371] Server  LOG      ✓ Compiled in 35ms
+[02:37:15.449] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Teams> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[02:37:45.089] Server  LOG      ✓ Compiled in 73ms
+[02:48:29.629] Server  ERROR    ⨯ ./pages/team.jsx:2:1
+Module not found: Can't resolve 'react-helmet-async'
+  1 | // Team Members placeholder
+> 2 | import { Helmet } from "react-helmet-async";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Navbar from '../components/Navbar'
+  4 | import Footer from '../components/Footer'
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:48:29.629] Server  ERROR    ⨯ ./pages/team.jsx:2:1
+Module not found: Can't resolve 'react-helmet-async'
+  1 | // Team Members placeholder
+> 2 | import { Helmet } from "react-helmet-async";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Navbar from '../components/Navbar'
+  4 | import Footer from '../components/Footer'
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:48:29.633] Server  ERROR    ⨯ ./pages/team.jsx:2:1
+Module not found: Can't resolve 'react-helmet-async'
+  1 | // Team Members placeholder
+> 2 | import { Helmet } from "react-helmet-async";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Navbar from '../components/Navbar'
+  4 | import Footer from '../components/Footer'
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:48:29.636] Server  ERROR    ⨯ ./pages/team.jsx:2:1
+Module not found: Can't resolve 'react-helmet-async'
+  1 | // Team Members placeholder
+> 2 | import { Helmet } from "react-helmet-async";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Navbar from '../components/Navbar'
+  4 | import Footer from '../components/Footer'
+  5 |
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:48:29.640] Server  LOG      ✓ Compiled in 153ms
+[02:48:30.527] Browser LOG     Refreshing page data due to server-side change
+[02:48:30.527] Browser DEBUG   TSS: Counted history being replaced
+[02:48:30.527] Browser DEBUG   TSS: Caught history
+[02:48:30.527] Browser DEBUG   TSS: Checking if repeated 500 times for interval 1000 against data:  {"lastCount":1,"lastTime":1761457302418}
+[02:48:30.527] Browser ERROR   ./pages/team.jsx:2:1
+Module not found: Can't resolve 'react-helmet-async'
+  1 | // Team Members placeholder
+> 2 | import { Helmet } from "react-helmet-async";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import Navbar from '../components/Navbar'
+  4 | import Footer from '../components/Footer'
+  5 |
+
+https://nextjs.org/docs/messages/module-not-found
+[02:48:43.320] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./pages/team.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[02:48:43.320] Browser LOG     Refreshing page data due to server-side change
+[02:48:43.320] Browser DEBUG   TSS: Counted history being replaced
+[02:48:43.320] Browser DEBUG   TSS: Caught history
+[02:48:43.320] Browser DEBUG   TSS: Checking if repeated 500 times for interval 1000 against data:  {"lastCount":1,"lastTime":1761458614097}
+[02:48:43.357] Server  LOG      ✓ Compiled in 38ms
+[02:56:59.323] Server  LOG      ✓ Compiled in 88ms
+[02:57:10.611] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[02:57:10.670] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[02:57:10.837] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/projects"

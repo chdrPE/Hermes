@@ -48,6 +48,18 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/[root-of-the-server]__0994fa66._.js",
       "static/chunks/pages_projects_2da965e7._.js",
       "static/chunks/turbopack-pages_projects_638b0862._.js"
+    ],
+    "/team": [
+      "static/chunks/node_modules_next_dist_compiled_c629999b._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_82dc2e9d._.js",
+      "static/chunks/node_modules_next_dist_client_d0aa886c._.js",
+      "static/chunks/node_modules_next_dist_6024eba3._.js",
+      "static/chunks/node_modules_react-dom_4411d9bd._.js",
+      "static/chunks/node_modules_f1be3ba2._.js",
+      "static/chunks/[root-of-the-server]__c82b172e._.js",
+      "static/chunks/components_be6618a9._.css",
+      "static/chunks/pages_team_2da965e7._.js",
+      "static/chunks/turbopack-pages_team_a7f0f9c1._.js"
     ]
   },
   "devFiles": [],
