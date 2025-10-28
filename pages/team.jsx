@@ -1,59 +1,60 @@
 // Team Members placeholder
-import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
+import Head from "next/head";
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+
+import TeamGrid from "../components/TeamGrid";
+import TeamVoices from "../components/TeamVoices";
+import ContactSection from "../components/ContactSection";
+
+import styles from "./team.module.css";
 
 export default function TeamPage() {
-    return (
-        <>
-            <head> 
-                <title>Team</title>
-                <meta name="description" content="Our Team" />
-            </head>
- 
-            <Navbar/>
+  return (
+    <>
+      <Head>
+        <title>Team</title>
+        <meta name="description" content="Our Team" />
+      </Head>
 
-            <main>
-                <header>
-                    <h1>Meet our team</h1>
-                    <p>Passionate students building innovative digital 
-                        solutions through collaborative projects</p> 
-                </header>
+      <div className="min-h-screen bg-[#0b0f14] text-slate-100">
+        <Navbar />
 
-                {/*Css for modifying and improving the appereance*/}
+        <main className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 pb-16">
+          {/* Hero */}
+          <header className={styles.hero}>
+            <h1 className={styles.heroTitle}>Meet our team</h1>
+            <p className={styles.heroSub}>
+              Passionate students building innovative digital solutions through
+              collaborative projects
+            </p>
+          </header>
 
-                <section>
-                    <p>Innovators</p>
-                    <h2>Our team</h2>
-                    <p>Dedicated students transforming ideas into powerful
-                            digital experiences</p>
-                </section>
+          {/* Section intro */}
+          <p className={styles.kicker}>Innovators</p>
+          <h2 className={styles.sectionTitle}>Our team</h2>
+          <p className={styles.sectionSub}>
+            Dedicated students transforming ideas into powerful digital experiences
+          </p>
 
-                {/*Component for image + name + role + ...*/}
+          {/* Team grid */}
+          <TeamGrid />
 
-                <section>
-                    <h2>Team Voices</h2>
-                    <p>Insights from our passionate student innovators</p>
-                </section>
+          {/* Voices */}
+          <section className="mt-16 text-center">
+            <h2 className="text-3xl font-extrabold">Team voices</h2>
+            <p className="mt-2 text-slate-300">
+              Insights from our passionate student innovators
+            </p>
+            <TeamVoices />
+          </section>
 
-                {/* Component for comments (User + name + stars + ...*/}
+          {/* Contact */}
+          <ContactSection />
+        </main>
 
-                <section>
-                    <h6>Connect</h6> {/*h6 so it's easy to modify using css*/}
-                    <h3>Contact us</h3> {/*same as before (different from other h2)*/}
-                    <h6>Interested in collaboration or have questions about our student
-                        -driven digital projects</h6>
-                </section>
-
-                {/* Component for email, phone, office*/}
-
-                {/* Image */}
-
-
-            </main>
-
-            
-            <Footer />
-            
-        </>
-    )    
+        <Footer />
+      </div>
+    </>
+  );
 }
