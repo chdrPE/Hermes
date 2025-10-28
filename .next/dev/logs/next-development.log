@@ -106,3 +106,62 @@ Import traces:
 [01:43:38.157] Server  LOG      ✓ Compiled in 23ms
 [01:43:40.371] Server  LOG      ✓ Compiled in 3ms
 [01:44:31.651] Server  LOG      ✓ Compiled in 46ms
+[02:28:03.040] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <HeroSection> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[02:28:03.040] Browser ERROR   ./components/GeometricWaves.jsx:77:6
+Parsing ecmascript source code failed
+  75 |       }
+  76 |     };
+> 77 |   }, []);
+     |      ^^
+  78 |
+  79 |   return (
+  80 |     <div className={styles.wavesContainer}>
+
+'const' declarations must be initialized
+
+Import traces:
+  Browser:
+    ./components/GeometricWaves.jsx
+    ./components/HeroSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/GeometricWaves.jsx
+    ./components/HeroSection.jsx
+    ./pages/index.jsx
+[02:28:03.040] Browser ERROR   ./components/GeometricWaves.jsx:77:8
+Parsing ecmascript source code failed
+  75 |       }
+  76 |     };
+> 77 |   }, []);
+     |        ^
+  78 |
+  79 |   return (
+  80 |     <div className={styles.wavesContainer}>
+
+Expected a semicolon
+
+Import traces:
+  Browser:
+    ./components/GeometricWaves.jsx
+    ./components/HeroSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/GeometricWaves.jsx
+    ./components/HeroSection.jsx
+    ./pages/index.jsx
+[02:28:03.040] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <HeroSection> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[02:45:28.610] Server  ERROR   Error: write EPIPE
+[02:45:28.624] Server  ERROR    ⨯ "uncaughtException:" Error: write EPIPE
+[02:45:28.636] Server  ERROR    ⨯ "uncaughtException: " Error: write EPIPE
