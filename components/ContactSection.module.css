@@ -1,0 +1,79 @@
+.wrapper {
+  margin-top: 3rem;
+}
+
+.headerRow {
+  display: grid;
+  gap: 1.5rem;
+}
+@media (min-width: 1024px) {
+  .headerRow {
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
+  }
+}
+
+.kicker {
+  color: #aeb7c9;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0;
+}
+.title {
+  margin: 0.25rem 0 0.5rem;
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #eef3fb;
+}
+.sub {
+  margin: 0;
+  color: #c7cfdd;
+  line-height: 1.6;
+}
+
+.contactList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.75rem;
+}
+.contactList li {
+  display: grid;
+  grid-template-columns: 20px 1fr;
+  gap: 0.75rem;
+  align-items: start;
+  padding: 0.75rem 0.85rem;
+  border-radius: 0.75rem;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.label {
+  display: block;
+  color: #aeb7c9;
+  font-size: 0.85rem;
+  margin-bottom: 2px;
+}
+.contactList a,
+.contactList span {
+  color: #e6ebf4;
+  text-decoration: none;
+}
+
+.map {
+  margin-top: 1.5rem;
+  border-radius: 1rem;
+  overflow: hidden;
+  background: #2c323d;
+  height: 360px;
+  display: grid;
+  place-items: center;
+}
+.mapIcon {
+  width: 90px;
+  height: 90px;
+  border-radius: 18px;
+  background: linear-gradient(180deg, #495367, #343c4a);
+  opacity: 0.85;
+}
