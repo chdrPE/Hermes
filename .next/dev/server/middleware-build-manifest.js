@@ -8,10 +8,10 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/node_modules_next_head_6b89d279.js",
       "static/chunks/node_modules_react-dom_4411d9bd._.js",
       "static/chunks/node_modules_f1be3ba2._.js",
-      "static/chunks/[root-of-the-server]__7fd625be._.js",
-      "static/chunks/components_3cd7fa87._.css",
+      "static/chunks/[root-of-the-server]__652e80c3._.js",
+      "static/chunks/components_fae36625._.css",
       "static/chunks/pages_index_2da965e7._.js",
-      "static/chunks/turbopack-pages_index_05530569._.js"
+      "static/chunks/turbopack-pages_index_87b8c98b._.js"
     ],
     "/_app": [
       "static/chunks/node_modules_next_dist_compiled_c629999b._.js",
@@ -38,17 +38,6 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/pages__error_2da965e7._.js",
       "static/chunks/turbopack-pages__error_91f36f75._.js"
     ],
-    "/projects": [
-      "static/chunks/node_modules_next_dist_compiled_c629999b._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_82dc2e9d._.js",
-      "static/chunks/node_modules_next_dist_client_d0aa886c._.js",
-      "static/chunks/node_modules_next_dist_6024eba3._.js",
-      "static/chunks/node_modules_react-dom_4411d9bd._.js",
-      "static/chunks/node_modules_7f09fef0._.js",
-      "static/chunks/[root-of-the-server]__0994fa66._.js",
-      "static/chunks/pages_projects_2da965e7._.js",
-      "static/chunks/turbopack-pages_projects_638b0862._.js"
-    ],
     "/team": [
       "static/chunks/[root-of-the-server]__ad217ad7._.js",
       "static/chunks/node_modules_next_dist_compiled_c629999b._.js",
@@ -61,6 +50,17 @@ globalThis.__BUILD_MANIFEST = {
       "static/chunks/_cdfddf0c._.css",
       "static/chunks/pages_team_2da965e7._.js",
       "static/chunks/turbopack-pages_team_ae9ffbec._.js"
+    ],
+    "/updates": [
+      "static/chunks/node_modules_next_dist_compiled_c629999b._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_82dc2e9d._.js",
+      "static/chunks/node_modules_next_dist_client_d0aa886c._.js",
+      "static/chunks/node_modules_next_dist_6024eba3._.js",
+      "static/chunks/node_modules_react-dom_4411d9bd._.js",
+      "static/chunks/node_modules_7f09fef0._.js",
+      "static/chunks/[root-of-the-server]__a0de0f48._.js",
+      "static/chunks/pages_updates_2da965e7._.js",
+      "static/chunks/turbopack-pages_updates_75e36a0c._.js"
     ]
   },
   "devFiles": [],
