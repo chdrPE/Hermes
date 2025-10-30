@@ -4,6 +4,8 @@ import HeroSection from '../components/HeroSection'
 import Footer from '../components/Footer'
 import FeaturesSection from '../components/FeaturesSection'
 import SpotlightSection from '../components/SpotlightSection'
+import ProjectPortfolio from '../components/ProjectPortfolio'
+ 
 
 export default function Home() {
   return (
@@ -25,6 +27,9 @@ export default function Home() {
         </main>
         <main className="flex-1">
           <SpotlightSection />
+        </main>
+        <main className="flex-1">
+          <ProjectPortfolio/>
         </main>
         <Footer />
       </div>
