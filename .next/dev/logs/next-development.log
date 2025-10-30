@@ -1,1806 +1,836 @@
-[00:00:00.542] Server  LOG      ✓ Ready in 376ms
-[00:00:23.548] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.549] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.549] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.549] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.549] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.550] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.550] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.550] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.550] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.550] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.551] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.551] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.551] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.551] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.551] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.552] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.552] Server  ERROR    ⨯ ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.552] Server  ERROR    ⨯ ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.552] Server  ERROR    ⨯ ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.552] Server  ERROR    ⨯ ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.553] Server  ERROR    ⨯ ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.554] Server  ERROR    ⨯ ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.554] Server  ERROR    ⨯ ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.916] Browser ERROR   ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:00:23.916] Browser ERROR   ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:00:23.916] Browser ERROR   ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:00:23.916] Browser ERROR   uncaughtError: Error: ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:00:23.916] Browser ERROR   ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:00:23.916] Browser ERROR   ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:00:23.916] Browser ERROR   ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:10.421] Browser ERROR   ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:10.421] Browser ERROR   ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:10.421] Browser ERROR   ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:10.978] Browser ERROR   ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:10.978] Browser ERROR   ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:10.978] Browser ERROR   ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:11.372] Server  LOG      ✓ Compiled in 73ms
-[00:12:11.587] Browser ERROR   ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:11.588] Browser ERROR   ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:11.588] Browser ERROR   ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:11.588] Browser ERROR   ./components/ContactSection.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Mail, Phone, MapPin } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./ContactSection.module.css";
-  3 |
-  4 | export default function ContactSection() {
-
-Import traces:
-  Browser:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/ContactSection.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:11.588] Browser ERROR   ./components/TeamGrid.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Linkedin, Github, Dribbble } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamGrid.module.css";
-  3 |
-  4 | const members = [
-
-Import traces:
-  Browser:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamGrid.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:11.588] Browser ERROR   ./components/TeamVoices.jsx:1:1
-Module not found: Can't resolve 'lucide-react'
-> 1 | import { Star } from "lucide-react";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  2 | import styles from "./TeamVoices.module.css";
-  3 |
-  4 | const voices = [
-
-Import traces:
-  Browser:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-  SSR:
-    ./components/TeamVoices.jsx
-    ./pages/team.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:12:22.836] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:28:02.560] Server  LOG      ✓ Compiled in 38ms
-[00:28:02.785] Browser LOG     Refreshing page data due to server-side change
-[00:28:09.837] Server  LOG      ✓ Compiled in 8ms
-[00:28:14.666] Server  LOG      ✓ Compiled in 6ms
-[00:28:41.401] Server  ERROR    ⨯ ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:28:41.401] Server  ERROR    ⨯ ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:28:41.401] Server  ERROR    ⨯ ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:28:41.402] Server  ERROR    ⨯ ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:28:41.402] Server  ERROR    ⨯ ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:28:41.402] Server  ERROR    ⨯ ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:28:41.402] Server  ERROR    ⨯ ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:28:41.402] Server  ERROR    ⨯ ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:28:41.431] Server  LOG      ✓ Compiled in 23ms
-[00:28:41.654] Browser LOG     Refreshing page data due to server-side change
-[00:28:41.654] Browser ERROR   ./components/FeaturesList.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
-
-Import traces:
-  Browser:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-  SSR:
-    ./components/FeaturesList.jsx
-    ./pages/index.jsx
-
-https://nextjs.org/docs/messages/module-not-found
-[00:29:06.682] Server  ERROR    ⨯ ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
+[00:00:00.571] Server  LOG      ✓ Ready in 393ms
+[00:01:07.348] Browser ERROR   uncaughtError: Error: ./pages/index.jsx:6:30
+Parsing ecmascript source code failed
   4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
+  5 | import FeaturesSection from '../components/FeaturesSection'
+> 6 | import SpotlightSection from ../components/SpotlightSection'
+    |                              ^
+  7 |
+  8 | export default function Home() {
+  9 |   return (
+
+Unexpected token `.`. Expected a string literal
 
 
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:29:06.682] Server  ERROR    ⨯ ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
+[00:01:07.493] Browser ERROR   ./pages/index.jsx:6:30
+Parsing ecmascript source code failed
   4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
+  5 | import FeaturesSection from '../components/FeaturesSection'
+> 6 | import SpotlightSection from ../components/SpotlightSection'
+    |                              ^
+  7 |
+  8 | export default function Home() {
+  9 |   return (
 
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:29:06.683] Server  ERROR    ⨯ ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
+Unexpected token `.`. Expected a string literal
+[00:01:07.654] Browser ERROR   ./pages/index.jsx:6:30
+Parsing ecmascript source code failed
   4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
+  5 | import FeaturesSection from '../components/FeaturesSection'
+> 6 | import SpotlightSection from ../components/SpotlightSection'
+    |                              ^
+  7 |
+  8 | export default function Home() {
+  9 |   return (
 
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:29:06.684] Server  ERROR    ⨯ ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:29:06.712] Server  LOG      ✓ Compiled in 21ms
-[00:29:06.879] Browser ERROR   ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-https://nextjs.org/docs/messages/module-not-found
-[00:29:22.296] Browser ERROR   ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-https://nextjs.org/docs/messages/module-not-found
-[00:29:24.680] Browser ERROR   ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-https://nextjs.org/docs/messages/module-not-found
-[00:29:28.008] Server  ERROR    ⨯ ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:29:28.009] Server  ERROR    ⨯ ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:29:28.011] Server  ERROR    ⨯ ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:29:28.222] Browser ERROR   ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-https://nextjs.org/docs/messages/module-not-found
-[00:29:28.222] Browser ERROR   uncaughtError: Error: ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[00:29:28.222] Browser ERROR   ./pages/index.jsx:5:1
-Module not found: Can't resolve '../components/FeaturesList'
-  3 | import HeroSection from '../components/HeroSection'
-  4 | import Footer from '../components/Footer'
-> 5 | import FeaturesList from '../components/FeaturesList'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  6 |
-  7 | export default function Home() {
-  8 |   return (
-
-https://nextjs.org/docs/messages/module-not-found
-[00:29:39.790] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:29:39.802] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:29:39.830] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+Unexpected token `.`. Expected a string literal
+[00:01:13.570] Server  LOG      ✓ Compiled in 38ms
+[00:01:13.579] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:13.580] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:13.625] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:39.830] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:13.625] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:39.831] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:13.626] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:39.831] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:13.626] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:39.832] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:13.627] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:40.044] Browser ERROR   uncaughtError: Error: ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:13.745] Browser ERROR   uncaughtError: Error: ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:40.192] Browser ERROR   ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:14.065] Browser ERROR   ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
-[00:29:40.192] Browser ERROR   ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:14.065] Browser ERROR   ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
-[00:29:46.230] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:15.975] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:46.230] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:15.976] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:46.231] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:15.976] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:46.231] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:15.977] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:46.232] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:15.978] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:46.444] Browser ERROR   uncaughtError: Error: ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:16.051] Browser ERROR   uncaughtError: Error: ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:29:46.444] Browser ERROR   ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:16.186] Browser ERROR   ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
-[00:29:46.444] Browser ERROR   ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:16.186] Browser ERROR   ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
-[00:30:08.583] Browser ERROR   ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:33.782] Server  LOG      ✓ Compiled in 6ms
+[00:01:34.023] Browser ERROR   ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve './SpotlightSection.module.css'
+> 1 | import styles from './SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
-[00:30:11.746] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:38.015] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:30:11.746] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:38.015] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:30:11.746] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:38.016] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:30:11.746] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:38.017] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:30:11.748] Server  ERROR    ⨯ ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:38.018] Server  ERROR    ⨯ ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:30:11.958] Browser ERROR   uncaughtError: Error: ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:38.089] Browser ERROR   uncaughtError: Error: ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
 
 
-[00:30:11.958] Browser ERROR   ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:38.223] Browser ERROR   ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
-[00:30:11.958] Browser ERROR   ./components/FeaturesSection.jsx:2:1
-Module not found: Can't resolve 'FeaturesSection.module.css'
-  1 | // FeaturesList component placeholder (Reusable for Home + Projects)
-> 2 | import styles from 'FeaturesSection.module.css'
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  3 | export default function FeaturesSection() {
-  4 |     return (
-  5 |         <section className={styles.featuresSection}>
+[00:01:38.223] Browser ERROR   ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
 
 Import traces:
   Browser:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
   SSR:
-    ./components/FeaturesSection.jsx
+    ./components/SpotlightSection.jsx
     ./pages/index.jsx
 
 https://nextjs.org/docs/messages/module-not-found
-[00:32:55.815] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:32:55.822] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:35:29.833] Server  LOG      ✓ Compiled in 11ms
-[00:35:30.001] Browser LOG     Refreshing page data due to server-side change
-[00:36:41.594] Server  LOG      ✓ Compiled in 21ms
-[00:36:41.770] Browser LOG     Refreshing page data due to server-side change
-[00:37:56.671] Server  LOG      ✓ Compiled in 14ms
-[00:57:10.743] Server  LOG      ✓ Compiled in 90ms
-[00:57:30.736] Server  LOG      ✓ Compiled in 11ms
-[01:00:16.717] Server  LOG      ✓ Compiled in 7ms
-[01:06:14.192] Server  LOG      ✓ Compiled in 5ms
-[01:08:10.125] Server  LOG      ✓ Compiled in 5ms
-[01:11:33.481] Server  LOG      ✓ Compiled in 45ms
-[01:15:10.014] Server  LOG      ✓ Compiled in 5ms
-[18:49:18.143] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/updates"
-[18:49:18.177] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/updates"
-[18:49:19.106] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/updates"
+[00:01:59.851] Server  LOG      ✓ Compiled in 17ms
+[00:01:59.991] Browser ERROR   ./components/SpotlightSection.jsx:1:1
+Module not found: Can't resolve '../SpotlightSection.module.css'
+> 1 | import styles from '../SpotlightSection.module.css';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 | export default function SpotlightSection() {
+  3 |     return (
+  4 |         <section className={styles.spotlightSection}>
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:02:03.218] Browser ERROR   uncaughtError: Error: ./components/SpotlightSection.jsx
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: components/SpotlightSection.jsx
+Import path: ./SpotlightSection.modules.css
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+
+[00:02:03.218] Browser ERROR   ./components/SpotlightSection.jsx
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: components/SpotlightSection.jsx
+Import path: ./SpotlightSection.modules.css
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:02:03.218] Browser ERROR   ./components/SpotlightSection.jsx
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: components/SpotlightSection.jsx
+Import path: ./SpotlightSection.modules.css
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:02:33.474] Server  LOG      ✓ Compiled in 17ms
+[00:02:33.624] Browser ERROR   ./components/SpotlightSection.jsx
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: components/SpotlightSection.jsx
+Import path: ./SpotlightSection.modules.css
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:02:39.647] Server  LOG      ✓ Compiled in 14ms
+[00:02:39.792] Browser ERROR   ./components/SpotlightSection.jsx
+Failed to compile
+    Global CSS cannot be imported from files other than your Custom <App>. Due to the Global nature of stylesheets, and to avoid conflicts, Please move all first-party global CSS imports to pages/_app.js. Or convert the import to Component-Level CSS (CSS Modules).
+    Read more: https://nextjs.org/docs/messages/css-global
+Location: components/SpotlightSection.jsx
+Import path: ./SpotlightSection.modules.css
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:02:42.817] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:07.387] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[00:06:07.417] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[00:06:07.575] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/projects"
+[00:08:43.217] Server  LOG      ✓ Compiled in 36ms
+[00:08:43.412] Browser ERROR   ./components/SpotlightSection.module.css:53:14
+Parsing CSS source code failed
+  51 |     gap: 0.5rem;
+  52 |     color: #ccc;
+> 53 |     font-size 1rem;
+     |              ^
+  54 |     
+  55 |
+  56 | }
+
+Unexpected token Dimension { has_sign: false, value: 1.0, int_value: Some(1), unit: "rem" }
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:09:02.883] Browser ERROR   uncaughtError: Error: ./components/SpotlightSection.module.css:53:14
+Parsing CSS source code failed
+  51 |     gap: 0.5rem;
+  52 |     color: #ccc;
+> 53 |     font-size 1rem;
+     |              ^
+  54 |     
+  55 |
+  56 | }
+
+Unexpected token Dimension { has_sign: false, value: 1.0, int_value: Some(1), unit: "rem" }
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+
+[00:09:02.883] Browser ERROR   ./components/SpotlightSection.module.css:53:14
+Parsing CSS source code failed
+  51 |     gap: 0.5rem;
+  52 |     color: #ccc;
+> 53 |     font-size 1rem;
+     |              ^
+  54 |     
+  55 |
+  56 | }
+
+Unexpected token Dimension { has_sign: false, value: 1.0, int_value: Some(1), unit: "rem" }
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:09:02.883] Browser ERROR   ./components/SpotlightSection.module.css:53:14
+Parsing CSS source code failed
+  51 |     gap: 0.5rem;
+  52 |     color: #ccc;
+> 53 |     font-size 1rem;
+     |              ^
+  54 |     
+  55 |
+  56 | }
+
+Unexpected token Dimension { has_sign: false, value: 1.0, int_value: Some(1), unit: "rem" }
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:09:04.548] Server  LOG      ✓ Compiled in 3ms
+[00:09:04.651] Browser ERROR   ./components/SpotlightSection.module.css:53:14
+Parsing CSS source code failed
+  51 |     gap: 0.5rem;
+  52 |     color: #ccc;
+> 53 |     font-size 1rem;
+     |              ^
+  54 |     
+  55 |
+  56 | }
+
+Unexpected token Dimension { has_sign: false, value: 1.0, int_value: Some(1), unit: "rem" }
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:09:05.078] Browser ERROR   ./components/SpotlightSection.module.css:53:14
+Parsing CSS source code failed
+  51 |     gap: 0.5rem;
+  52 |     color: #ccc;
+> 53 |     font-size 1rem;
+     |              ^
+  54 |     
+  55 |
+  56 | }
+
+Unexpected token Dimension { has_sign: false, value: 1.0, int_value: Some(1), unit: "rem" }
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:09:05.271] Browser ERROR   ./components/SpotlightSection.module.css:53:14
+Parsing CSS source code failed
+  51 |     gap: 0.5rem;
+  52 |     color: #ccc;
+> 53 |     font-size 1rem;
+     |              ^
+  54 |     
+  55 |
+  56 | }
+
+Unexpected token Dimension { has_sign: false, value: 1.0, int_value: Some(1), unit: "rem" }
+
+Import traces:
+  Browser:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+
+  SSR:
+    ./components/SpotlightSection.module.css
+    ./components/SpotlightSection.jsx
+    ./pages/index.jsx
+[00:09:08.116] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:09:08.124] Server  ERROR   Error: aborted
+[00:11:45.984] Server  LOG      ✓ Compiled in 7ms
+[00:12:07.123] Server  LOG      ✓ Compiled in 16ms
+[00:12:18.768] Server  LOG      ✓ Compiled in 4ms
+[00:12:27.323] Server  LOG      ✓ Compiled in 4ms
+[00:12:34.930] Server  LOG      ✓ Compiled in 3ms
+[00:12:47.587] Server  LOG      ✓ Compiled in 6ms
+[00:13:00.098] Server  LOG      ✓ Compiled in 8ms
+[00:14:09.069] Server  LOG      ✓ Compiled in 7ms
+[00:16:14.735] Server  LOG      ✓ Compiled in 7ms
+[02:01:31.500] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[02:01:31.523] Server  ERROR    ⨯ Error: The default export is not a React Component in page: "/projects"
+[02:01:31.601] Browser ERROR   uncaughtError: Error: The default export is not a React Component in page: "/projects"

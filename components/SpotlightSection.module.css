@@ -1,0 +1,75 @@
+.SpotlightSection{
+    background: #0a0a0a;
+    padding: 4rem 0;
+    padding-bottom: 6rem;
+    color: white;
+}
+.SpotlightContainer{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: center;
+    padding-bottom: 4rem;
+
+}
+.SpotlightContent{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+.sectionTitle{
+    font-size: 0.9rem;
+    color: #ccc;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+
+}
+.title{
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: white;
+    line-height: 1.2;
+}
+.description{
+    font-size: 1.1rem;
+    color: #aaa;
+    line-height: 1.6;
+}
+.featuresList{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+.featureItem{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #ccc;
+    font-size: 1rem;
+}
+.featureDesc{
+    font-size: 1.1rem;
+    color: #aaa;
+    line-height: 1.6;
+    padding: 0.25rem;
+}
+.SpotlightImage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagePlaceholder{
+    width: 400px;
+    height: 400px;
+    background: #333;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid #444;
+}
