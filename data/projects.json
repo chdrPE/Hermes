@@ -1,4 +1,22 @@
 {
-  "projects": []
+  "projects": [
+    {
+      "title": "AI health tracker",
+      "excerpt": "Machine learning solution for personalized medical monitoring.",
+      "tags": ["Machine learning", "Healthcare", "Innovation"],
+      "href": "/projects/ai-health-tracker"
+    },
+    {
+      "title": "Campus navigator",
+      "excerpt": "Indoor maps to find rooms, labs, and study spaces faster.",
+      "tags": ["Maps", "UX", "Mobile"],
+      "href": "/projects/campus-navigator"
+    },
+    {
+      "title": "Project name here",
+      "excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "tags": ["Prototype", "Web"],
+      "href": "/projects/sample-1"
+    }
+  ]
 }
-

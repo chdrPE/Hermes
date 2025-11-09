@@ -1,0 +1,19 @@
+/* Card styles for projects page*/
+.card{
+  background:#151a20; border:1px solid #242b33; border-radius:16px;
+  overflow:hidden; box-shadow:0 1px 2px rgba(0,0,0,.15);
+  transition:transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+  display:grid; grid-template-rows:180px auto auto; min-height:100%;
+}
+.card:hover{ transform:translateY(-2px); box-shadow:0 8px 24px rgba(0,0,0,.35); border-color:#2f3944; }
+
+.thumb{ background:#0f1318; border-bottom:1px solid #242b33; display:grid; place-items:center; color:#9aa3ad; }
+.body{ padding:16px 16px 10px; }
+.title{ font-weight:800; font-size:20px; margin:0 0 6px; }
+.excerpt{ color:#9aa3ad; font-size:14px; line-height:1.55; }
+.tags{ display:flex; flex-wrap:wrap; gap:8px; margin:14px 0 12px; }
+.tag{ background:#1e2630; color:#c9d3dd; padding:6px 10px; border-radius:10px; font-size:12px; border:1px solid #242b33; }
+.footer{ display:flex; align-items:center; justify-content:space-between; padding:0 16px 16px; }
+
+.link{ font-size:14px; color:#cfe7ff; text-decoration:none; }
+.link:hover{ text-decoration:underline; }
